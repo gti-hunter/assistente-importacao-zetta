@@ -1,5 +1,3 @@
-# assistente-importacao-zetta
-
 # 🤖 Assistente de Inteligência de Importação (AII)
 **Projeto Zetta Tecnologia e Soluções**
 
