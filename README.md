@@ -1,5 +1,5 @@
 # 🤖 AII - Assistente de Inteligência de Importação
-**Projeto Avançado - Zetta Tecnologia e Soluções**
+**Projeto Avançado - Zetta**
 
 Este repositório contém a entrega final para o Lab *"Construa Seu Assistente Virtual Com Inteligência Artificial"* da DIO. O projeto foi estruturado seguindo rigorosamente os 6 passos metodológicos exigidos, evoluindo de uma base estática para um agente dinâmico com capacidade de **Tool Calling (Uso de Ferramentas / Web Scraping)**.
 
